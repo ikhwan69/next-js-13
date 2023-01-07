@@ -1,0 +1,15 @@
+.input_group {
+    @apply flex border rounded-xl;
+    position: relative;
+}
+
+.input_text{
+    @apply block w-full px-2 py-2  bg-white ;
+    @apply focus:border-green focus:outline-none transition-colors duration-200 transform border rounded-md;
+}
+
+.input_text:not([type=email]) ~ span:hover *{
+    color: #03AC0E;
+    cursor: pointer;
+}
+

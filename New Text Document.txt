@@ -1,0 +1,33 @@
+
+Triwahyu Nugroho <triwahyunugroho11@gmail.com>
+4:52 PM (2 hours ago)
+to khencahyo02, bcc: me
+
+Test Fitur :
+- Membuat Halaman & action login & logout
+- simpan data agar tidak perlu login lagi, jika keluar halaman (kecuali di logout)
+- halaman menampilkan list users
+- paging, per halaman menampilkan 4 data user
+- halaman untuk menampilkan detail tiap user
+- user dapat like/unlike data user diatas
+- buat penanda user2 diatas itu sudah di like/belum
+- jika belum login, tetap bisa melihat data user, tapi tidak bisa like/unlike
+
+Gunakan Fitur API & Dokumentasi Reqres
+https://reqres.in/
+
+Ketentuan Test :
+- library yang harus ada nextjs, tailwindcss & react-query selebihnya bebas
+- desain bebas kreasi masing2
+- harus responsive
+- semua fitur diatas harus di implementasikan
+- hasil di upload di github untuk di review kodingnya
+- lakukan deploy di vercel/netlify
+- Apabila sudah selesai kirim ke email ini link github dan vercel/netlify utk kami lakukan penilaian.
+- Sertakan juga no. whatsapp yang aktif
+- Batas waktu pengumpulan hasil test adalah hari selasa, Tgl 3 Januari 2023, Jam 15.00 WIB
+- Kandidat yang masuk kualifikasi akan dihubungi melalui whatsapp / chat facebook untuk dilakukan interview online via kembali
+
+Selamat Mencoba, Semoga Berhasil
+
+

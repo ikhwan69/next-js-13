@@ -1,0 +1,4 @@
+1. React Query
+    - dehydrate
+        Mengambil data sebelum halaman di muat bersamaan server side rendering, kemudia mendehidrasi
+        kueri tersebut ke queryClient
